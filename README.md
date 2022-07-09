@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**maxim-gaiduchek/maxim-gaiduchek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=your-github-maxim-gaiduchek&color=orange)
 
-Here are some ideas to get you started:
+<code>🎓 Student: KPI FICT</code>
+<code>💻 Speciality: Software Engineering</code><br>
+<code>🧑‍💻 Specialization: Java Back-end Web Developer</code><br>
+<code>🪛 Stack: Java, Spring Framework</code><br>
+<code>🔩 Also working with: JavaScript, PostgreSQL, MySQL, MongoDB</code><br>
+<code>💬 [LinkedIn](https://www.linkedin.com/in/maxim-gaiduchek-213467216)</code>
+<code>📫 [E-Mail](mailto:maxim.gayduchek@gmail.com)</code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxim-gaiduchek&theme=chartreuse-dark&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxim-gaiduchek&theme=chartreuse-dark)
