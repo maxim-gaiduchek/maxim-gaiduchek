@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-maxim-gaiduchek&color=orange)
 
-<code>🎓 Student: KPI FICE / CTU FIT</code>
+<code>🎓 Student: KPI FICE (Kyiv, Ukraine) / CTU FIT (Prague, Czechia)</code>
 <code>💻 Speciality: Software Engineering</code><br>
 <code>🧑‍💻 Specialization: Java Backend Developer</code><br>
 <code>🪛 Stack: Java, Spring Framework, Hibernate</code><br>
