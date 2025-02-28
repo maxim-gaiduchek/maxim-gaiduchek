@@ -6,7 +6,7 @@
 <code>💻 Speciality: Software Engineering</code><br>
 <code>🧑‍💻 Specialization: Java Backend Developer</code><br>
 <code>🪛 Stack: Java, Spring Framework, Hibernate</code><br>
-<code>🔩 Also worked with: JavaScript, PostgreSQL, MySQL, MongoDB</code><br>
+<code>🔩 Also worked with: JavaScript, React, PostgreSQL, MySQL, MongoDB</code><br>
 <code>💬 [LinkedIn](https://www.linkedin.com/in/maxim-gaiduchek-213467216)</code>
 <code>📫 [E-Mail](mailto:maxim.gayduchek@gmail.com)</code>
 
