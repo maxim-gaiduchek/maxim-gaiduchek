@@ -7,7 +7,7 @@
 <code>🧑‍💻 Specialization: Java Backend Developer</code><br>
 <code>🪛 Stack: Java, Spring Framework, Hibernate</code><br>
 <code>🔩 Also worked with: JavaScript, React, PostgreSQL, MySQL, MongoDB</code><br>
-<code>💬 [LinkedIn](https://www.linkedin.com/in/maxim-gaiduchek-213467216)</code>
+<code>💬 [LinkedIn](https://www.linkedin.com/in/maksym-gaiduchek-213467216/)</code>
 <code>📫 [E-Mail](mailto:maxim.gayduchek@gmail.com)</code>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxim-gaiduchek&theme=chartreuse-dark&layout=compact)
